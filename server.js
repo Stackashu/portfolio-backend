@@ -15,7 +15,7 @@ const genAI = new GoogleGenAI({
   apiKey: process.env.GEMINI_API_KEY, // ✅ from AI Studio
 });
 
-// --- Knowledge Base ---
+// --- Knowledge Base --- this is about ashish verma
 const knowledgeBase = `
 You are an assistant for Ashish Verma (Stackashu).
 Answer only using this information if relevant. 
