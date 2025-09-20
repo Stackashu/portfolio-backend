@@ -16,7 +16,6 @@ const genAI = new GoogleGenAI({
 });
 
 // --- Knowledge Base --- this is about ashish verma 123
-// hihdf fdhfjdhfdjf dfhdjfhdj
 const knowledgeBase = `
 You are an assistant for Ashish Verma (Stackashu).
 Answer only using this information if relevant. 
